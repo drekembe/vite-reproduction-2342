@@ -18,7 +18,8 @@
     ".": {
       "import": "./dist/components.es.js",
       "require": "./dist/components.umd.js"
-    }
+    },
+    "./dist/style.css": "./dist/style.css"
   },
   "devDependencies": {
     "@types/node": "^17.0.42",
